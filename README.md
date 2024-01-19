@@ -1,4 +1,4 @@
-# https://maribel-88.github.io/Maribelle-88.github.io/
+
 ![Maribelle_Garden_Set](https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/5bbcfba4-bbf7-4878-a4d7-eb4cb7519fcd)
 ## Maribelle Garden Set
  A website project created to showcase what I have learnt so far from course modules.
@@ -83,4 +83,50 @@ Customers can use this page in order to track the status of their order. They wi
 ### As website Administrator should be able to:
 - Add and delete products.
 - Receive customer query through emails.
+
+## Writing the Testing Section
+
+### Validator testing
+- HTML
+   - No errors were found using the W3C validator
+     <img width="935" alt="w3Validator" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/23de9fb6-c07e-4ed1-b5d9-238b8115365e">
+
+- CSS
+    - No errors were found using the W3C CSS Validator
+   <img width="878" alt="w3cCSSvalidation" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/ee7e3303-3b86-408c-92b3-7c77a9e17c8f">
+
+- Website performance
+    - Has used the Lighthouse to check the website performance
+      <img width="942" alt="lighthoughtTest" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/e53e7969-f042-48bd-82a3-cf44dfa9b66b">
+     
+
   
+## Testing Section Requirements
+
+| Feature | Expectation | Action | Result |
+| :---    | :---        | :---   | :---   |
+| Home Navbar Button | When clicked will take you to home page | Clicked Home on the Nav bar or logo name | Home page opened when clicked|
+| Deals button | When clicked will open the Deals page | Clicked Deals button on the Nav bar | Deals page opened when clicked|
+| About button | When clicked will open the About page | Clicked About button on the Nav bar | About page opened when clicked|
+| Contact Us button | When clicked will open the Contact Us page | Clicked Contact Us button on the Nav bar | Contact Us page opened when clicked|
+| Order Satatus button | When clicked will open the Order Satatus | Clicked Order Satatus button on the Nav bar | Order Satatus page opened when clicked|
+| Cart button | When clicked will open the Cart page | Clicked Cart button on the Nav bar | Cart page opened when clicked|
+| Refund Policy Link | When clicked will open the Refund page | Clicked Refund Policy Link on the bottom of the page | Refund Policy page opened when clicked|
+| Terms Link | When clicked will open the Terms page | Clicked Terms Link on the bottom of the page | Terms page opened when clicked|
+| Scroll-up button | When clicked will take you to the top of the page | Clicked scroll-up arrow button | Page returned to the top |
+| Minus button | When clicked will decrement the quantity of the selected item quantity | Clicked Minus button | Decremented the quantity of the selected item |
+| Plus button | When clicked will increment the quantity of the selected item quantity | Clicked Minus button | Incremented the quantity of the selected item |
+| Delete X button | When clicked will remove  the selected item from the cart | Clicked X button | Removed the selected item from cart|
+| Clear button | When clicked will remove  all the selected item from the cart | Clicked clear button | Removed all the selected items from cart|
+| Back to Home Button | When clicked will take you to home page | Clicked Back to Home on the Cart page | Home page opened when clicked|
+
+
+## Deployment
+#### This site was deployed through GitHub. The steps are as follows:
+- Navigate the settings on the GitHub repository.
+- From Code and automation section select Pages.
+- From Source section dropdown menu select Deploy from branch.
+- Select Main brach for source
+- Once the main branch has been selected, the page will automatically refresh with a successful deployment notice.
+
+  Click to view the live link - https://maribel-88.github.io/Maribelle-88.github.io/
