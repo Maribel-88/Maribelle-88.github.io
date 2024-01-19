@@ -6,9 +6,8 @@
  In all the pages there are buttons that customers can click in order to go the the desired page. This website is built with customer in mind.
  I am looking for the web visitors to be able to view my products and be able to instantly placed there order. Phones numbers and email of the owner 
  is available for easy reached and to be able to process their order quicker or even to follow-up the orders.
----
- 
- 
+
+
  ### Home Page 
  In the home page , I have implemented some bootstrap , HTML , CSS and small bit of Javascript in order to
  make the page more interactive and user friendly. Bootstrap icons made  the web page more engaging.
@@ -76,5 +75,12 @@ Customers can use this page in order to track the status of their order. They wi
  be able to choose from our available products.
 
  ### Customers should be able:
+ - Place their order instantly.
+ - Add more or reduce the quantity of their order.
+ - Cancel their order by directly contacting the adminstrator through call or email.
+ - Enjoy browsing the webite.
  
-
+### As website Administrator should be able to:
+- Add and delete products.
+- Receive customer query through emails.
+  
