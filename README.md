@@ -2,7 +2,7 @@
 <div align="center"><img width="679" alt="maribelleBanner" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/302391f0-cc6c-493f-a816-3cb89783f24e"></div>
 <div align="center"> https://maribel-88.github.io/Maribelle-88.github.io/</div>
 
-## Maribelle Garden Set
+## **Maribelle Garden Set**
  A website project created to showcase what I have learnt so far from course modules.
  This dynamic website is composed of eight pages , the Home page, About, Contact, Deals, Refund, Terms, Order Status  and the Cart/basket page.
  In all the pages there are buttons that customers can click in order to go the the desired page. This website is built with customer in mind.
@@ -10,7 +10,7 @@
  is available for easy reached and to be able to process their order quicker or even to follow-up the orders.
 
 
- ### Home Page 
+ ### [Home Page](https://maribel-88.github.io/Maribelle-88.github.io/)
  In the home page , I have implemented some bootstrap , HTML , CSS and small bit of Javascript in order to
  make the page more interactive and user friendly. Bootstrap icons made  the web page more engaging.
  I have showcase the products in the home page. I use CSS to design the box/grid where  I placed the items or product.
@@ -24,7 +24,7 @@
  ---
 
 
- ### Cart Page
+ ### [Cart Page](https://maribel-88.github.io/Maribelle-88.github.io/cart2.html)
  This page is created with some CSS to style the grid and some Bootstrap icons to make it more intersting.
  Also some Javescript to let the user delete some items they don't want in their basket. When customer has chosen a product from home page it will
  be added to the cart. From here, the customer will be able to see all their chosen items and be able to add or reduce the quantity by clicking the 
@@ -36,7 +36,7 @@
 ---
 
  
-### About Page
+### [About Page](https://maribel-88.github.io/Maribelle-88.github.io/about.html)
 A very brief welcome and thank you message for the site visitors. This is a static page but it contains all the link buttons to other pages.
 
 <div align="center"><img width="700" alt="aboutPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/848fde4b-a1c0-4305-bba1-df31fd436b1e"></div>
@@ -44,7 +44,7 @@ A very brief welcome and thank you message for the site visitors. This is a stat
 ---
 
 
-### Contact Page
+### [Contact Page](https://maribel-88.github.io/Maribelle-88.github.io/Contact.html)
 I used a form to collect basic information from the user which will be use to contact them regarding their query.
 Customer will be able to leave the personal contact information and message. After completing the form, customer must send it by clicking the submit
 button. Once submitted the owner will receive the copy of their query through an email.
@@ -54,7 +54,7 @@ button. Once submitted the owner will receive the copy of their query through an
  ---
 
 
-### Deals Page
+### [Deals Page](https://maribel-88.github.io/Maribelle-88.github.io/deals.html)
 This page offers discount for the buyer. Customer should be able to reduce the total price of their order by placing the code in an input form at the
 checkoutpage(currently not available still on creation). This page also contains the link buttons to go to other pages.
 
@@ -63,7 +63,7 @@ checkoutpage(currently not available still on creation). This page also contains
 ---
 
 
-### Refund Page
+### [Refund Page](https://maribel-88.github.io/Maribelle-88.github.io/refund.html)
 This page is covering the policy on how we refund the customers. 
 
 <div align="center"><img width="700" alt="refundPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/68a0d4fb-e8da-4a49-8158-850db9cbbaf9"></div>
@@ -71,7 +71,7 @@ This page is covering the policy on how we refund the customers.
 ---
 
 
-### Terms Page
+### [Terms Page](https://maribel-88.github.io/Maribelle-88.github.io/terms.html)
 This pages stipulate the words, names, terms use in the web page.
 
 <div align="center"><img width="700" alt="termsPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/b89ae4fc-d47e-4c1d-b11d-41d6f94cca91"></div>
@@ -79,7 +79,7 @@ This pages stipulate the words, names, terms use in the web page.
 ---
 
 
-### Order Status Page
+### [Order Status Page](https://maribel-88.github.io/Maribelle-88.github.io/trackOrder.html)
 Customers can use this page in order to track the status of their order. They will have to input the order number.
 
  <div align="center"><img width="700" alt="orderStatusPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/f41156cf-d9c2-44b4-97ac-842a45b3c98f"></div>
