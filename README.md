@@ -154,3 +154,19 @@ Customers can use this page in order to track the status of their order. They wi
 - Once the main branch has been selected, the page will automatically refresh with a successful deployment notice.
 
   Click to view the live link - **https://maribel-88.github.io/Maribelle-88.github.io/**
+
+
+## Citation of Sources
+Credits
+- Content
+    - The text for the Refund and Term pages are from my own personal website.
+    - Some of the codes I learnt from watching lots of youtube tutorials.
+
+- Media
+    - Images are from my own collections.
+ 
+## Future Features
+Features Left to Implement
+
+    - The Checkout page is yet to be created.
+    - The submit form on Contact Us page has to be set up.
