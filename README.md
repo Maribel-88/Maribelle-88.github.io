@@ -1,5 +1,7 @@
 
-![Maribelle_Garden_Set](https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/5bbcfba4-bbf7-4878-a4d7-eb4cb7519fcd)
+<div align="center"><img width="679" alt="maribelleBanner" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/302391f0-cc6c-493f-a816-3cb89783f24e"></div>
+<div align="center"> https://maribel-88.github.io/Maribelle-88.github.io/</div>
+
 ## Maribelle Garden Set
  A website project created to showcase what I have learnt so far from course modules.
  This dynamic website is composed of eight pages , the Home page, About, Contact, Deals, Refund, Terms, Order Status  and the Cart/basket page.
@@ -17,7 +19,9 @@
  by clicking the plus icon  and minus icon to reduce the quantity or even delete the items from the cart.
  
 
- <img width="947" alt="homepage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/f2316168-862e-4736-b320-ad51ff4f3605">
+ <div align="center"><img width="700" alt="homepage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/f2316168-862e-4736-b320-ad51ff4f3605"></div>
+
+ ---
 
 
  ### Cart Page
@@ -27,46 +31,60 @@
  add and minus icons.Furtheremore, on the top of the page is showing the total price of their order. Also there is clear button option which give
  them the option to clear the cart.
  
-<img width="947" alt="cartPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/0d19115e-afa8-4380-b946-4696fd982972">
+<div align="center"><img width="700" alt="cartPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/0d19115e-afa8-4380-b946-4696fd982972"></div>
+
+---
 
  
 ### About Page
 A very brief welcome and thank you message for the site visitors. This is a static page but it contains all the link buttons to other pages.
 
-<img width="947" alt="aboutPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/848fde4b-a1c0-4305-bba1-df31fd436b1e">
+<div align="center"><img width="700" alt="aboutPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/848fde4b-a1c0-4305-bba1-df31fd436b1e"></div>
+
+---
 
 
 ### Contact Page
 I used a form to collect basic information from the user which will be use to contact them regarding their query.
-Customer will be able to leave the personal contact information and message. After completing the form, customer must send it by clicking the submit button. 
-Once submitted the owner will receive the copy of their query through an email.
+Customer will be able to leave the personal contact information and message. After completing the form, customer must send it by clicking the submit
+button. Once submitted the owner will receive the copy of their query through an email.
 
-<img width="944" alt="contactPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/693f5c63-d403-4740-a17e-9c4c9318b8a5">
+ <div align="center"><img width="700" alt="contactPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/693f5c63-d403-4740-a17e-9c4c9318b8a5"></div>
+
+ ---
 
 
 ### Deals Page
 This page offers discount for the buyer. Customer should be able to reduce the total price of their order by placing the code in an input form at the
 checkoutpage(currently not available still on creation). This page also contains the link buttons to go to other pages.
 
-<img width="951" alt="dealsPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/8efdcd72-389c-4bcb-8f0a-6255f7606524">
+<div align="center"><img width="700" alt="dealsPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/8efdcd72-389c-4bcb-8f0a-6255f7606524"></div>
+
+---
 
 
 ### Refund Page
 This page is covering the policy on how we refund the customers. 
 
-<img width="946" alt="refundPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/68a0d4fb-e8da-4a49-8158-850db9cbbaf9">
+<div align="center"><img width="700" alt="refundPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/68a0d4fb-e8da-4a49-8158-850db9cbbaf9"></div>
+
+---
 
 
 ### Terms Page
 This pages stipulate the words, names, terms use in the web page.
 
-<img width="929" alt="termsPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/b89ae4fc-d47e-4c1d-b11d-41d6f94cca91">
+<div align="center"><img width="700" alt="termsPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/b89ae4fc-d47e-4c1d-b11d-41d6f94cca91"></div>
+
+---
 
 
 ### Order Status Page
 Customers can use this page in order to track the status of their order. They will have to input the order number.
 
- <img width="947" alt="orderStatusPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/f41156cf-d9c2-44b4-97ac-842a45b3c98f">
+ <div align="center"><img width="700" alt="orderStatusPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/f41156cf-d9c2-44b4-97ac-842a45b3c98f"></div>
+
+ ---
  
 
  ## UX/UI Section
@@ -74,13 +92,13 @@ Customers can use this page in order to track the status of their order. They wi
  Maribelle Garden Set is an e-commerce webite which aims to showcase our various table garden sets in a range of affordable prices. The customers should 
  be able to choose from our available products.
 
- ### Customers should be able:
+ #### Customers should be able:
  - Place their order instantly.
  - Add more or reduce the quantity of their order.
  - Cancel their order by directly contacting the adminstrator through call or email.
  - Enjoy browsing the webite.
  
-### As website Administrator should be able to:
+#### As website Administrator should be able to:
 - Add and delete products.
 - Receive customer query through emails.
 
@@ -89,19 +107,24 @@ Customers can use this page in order to track the status of their order. They wi
 ### Validator testing
 - HTML
    - No errors were found using the W3C validator
-     <img width="935" alt="w3Validator" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/23de9fb6-c07e-4ed1-b5d9-238b8115365e">
+    
+     <div align="center"><img width="700" alt="w3Validator" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/23de9fb6-c07e-4ed1-b5d9-238b8115365e"></div>
 
 - CSS
     - No errors were found using the W3C CSS Validator
-   <img width="878" alt="w3cCSSvalidation" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/ee7e3303-3b86-408c-92b3-7c77a9e17c8f">
+
+      
+  <div align="center"><img width="700" alt="w3cCSSvalidation" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/ee7e3303-3b86-408c-92b3-7c77a9e17c8f"></div>
 
 - Website performance
     - Has used the Lighthouse to check the website performance
-      <img width="942" alt="lighthoughtTest" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/e53e7969-f042-48bd-82a3-cf44dfa9b66b">
+      
+      <div align="center"><img width="700" alt="lighthoughtTest" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/e53e7969-f042-48bd-82a3-cf44dfa9b66b"></div>
      
 
   
 ## Testing Section Requirements
+
 
 | Feature | Expectation | Action | Result |
 | :---    | :---        | :---   | :---   |
@@ -121,6 +144,7 @@ Customers can use this page in order to track the status of their order. They wi
 | Back to Home Button | When clicked will take you to home page | Clicked Back to Home on the Cart page | Home page opened when clicked|
 
 
+
 ## Deployment
 #### This site was deployed through GitHub. The steps are as follows:
 - Navigate the settings on the GitHub repository.
@@ -129,4 +153,4 @@ Customers can use this page in order to track the status of their order. They wi
 - Select Main brach for source
 - Once the main branch has been selected, the page will automatically refresh with a successful deployment notice.
 
-  Click to view the live link - https://maribel-88.github.io/Maribelle-88.github.io/
+  Click to view the live link - **https://maribel-88.github.io/Maribelle-88.github.io/**
