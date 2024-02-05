@@ -38,8 +38,9 @@
  
 ### [About Page](https://maribel-88.github.io/Maribelle-88.github.io/about.html)
 A very brief welcome and thank you message for the site visitors. This is a static page but it contains all the link buttons to other pages.
+This page contains an embedded video of the products that we are selling.
 
-<div align="center"><img width="700" alt="aboutPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/848fde4b-a1c0-4305-bba1-df31fd436b1e"></div>
+<div align="center"><img width="700" alt="about" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/1149142f-31de-4c6a-a2dc-05dbeef9acc3"></div>
 
 ---
 
@@ -56,9 +57,10 @@ button. Once submitted the owner will receive the copy of their query through an
 
 ### [Deals Page](https://maribel-88.github.io/Maribelle-88.github.io/deals.html)
 This page offers discount for the buyer. Customer should be able to reduce the total price of their order by placing the code in an input form at the
-checkoutpage(currently not available still on creation). This page also contains the link buttons to go to other pages.
+checkoutpage(currently not available still on creation). This page also contains the link buttons to go to other pages. A new pop-up is added that contains the discount
+code.
 
-<div align="center"><img width="700" alt="dealsPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/8efdcd72-389c-4bcb-8f0a-6255f7606524"></div>
+<div align="center"><img width="700" alt="deals" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/79fc84c4-71fe-40b9-aa1d-ba59645fd81a"></div>
 
 ---
 
