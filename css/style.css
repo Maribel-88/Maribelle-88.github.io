@@ -324,6 +324,11 @@ a {
 #discountDeals {
     background: #f7f7f7;
 }
+
+/*--------------------About Page -------------------*/
+#aboutVid {
+    margin-left: -10px;
+}
 /*-------------Modal styles -----------------------*/
 /* The Modal (background) */
 .modal {
