@@ -33,6 +33,7 @@ a {
 
 #navButtons a {
     color:#000;
+    row-gap: 20px;
 }
 
 #navButtons a:hover {
@@ -56,11 +57,15 @@ a {
     color: #fff;  
 }
 
-.btnNav:hover {
+.btnNav:hover, #myBtn:hover {
     border-radius: 15px;
     border: solid 1px transparent;
     background: linear-gradient(to bottom right, red, yellow);
     height: 38px;
+}
+
+#myBtn {
+    border-radius: 15px;
 }
 
 #callInfo {
@@ -355,8 +360,8 @@ a {
   .modal-content {
     background-color: #f77f00;
     background: linear-gradient(to bottom right, red, yellow);
-    margin: 20% auto; /* 15% from the top and centered */
-    padding: 1px;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
     border: 1px solid #888;
     width: 50%; /* Could be more or less, depending on screen size */
   }
