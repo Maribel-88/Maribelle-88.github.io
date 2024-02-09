@@ -53,13 +53,15 @@ a {
 }
 
 #heading div i {
-    color: #fff;
-    
+    color: #fff;  
 }
 
-
-
-
+.btnNav:hover {
+    border-radius: 15px;
+    border: solid 1px transparent;
+    background: linear-gradient(to bottom right, red, yellow);
+    height: 38px;
+}
 
 #callInfo {
     padding-top: 20px;
