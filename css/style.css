@@ -101,6 +101,10 @@ a {
     padding-top: 5px;
 }
 
+#customerServices a:hover {
+    color:green;
+}
+
 #imgFooter {
    width: 200px;
 }
