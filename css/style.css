@@ -17,24 +17,61 @@ a {
     text-decoration: none;
     color:#fff;
 }
-
+/*-----------------Heading Navbar -----------------------*/
 #logo {
     padding-top: 20px;
     text-decoration: none;
     color:#fff;
 }
 
-.navbar {
-    
-    
+.navbar { 
     background-color: #8c240a;
     background: linear-gradient(to bottom right, red, yellow);
     padding: 25px 60px;
     color: #fff;
-    
- 
 }
 
+#navButtons a {
+    color:#000;
+}
+
+#navButtons a:hover {
+    color:#fff;
+}
+
+
+#navbarNavDropdown ul li a:hover {
+    color:#fff;
+
+}
+
+#heading {
+    background-color: #8c240a;
+}
+
+#heading div a:hover {
+    color: #000;
+}
+
+#heading div i {
+    color: #000;
+    
+}
+
+
+
+
+
+#callInfo {
+    padding-top: 20px;
+    text-align: center;  
+    flex-direction: column; 
+    display:inline-block;
+} 
+
+
+
+/*----------------- Deals Page ---------------------*/
 
 #deal1 {
     display: flex;
@@ -45,19 +82,7 @@ a {
   
 }
 
-
-
-#heading {
-    background-color: #8c240a;
-}
-
-#callInfo {
-    padding-top: 20px;
-    text-align: right;
-    
-}
-
-
+/*--------------------- Footer Page ---------------------------*/
 
 #imgBorder {
     background-color: #8c240a;
@@ -67,10 +92,8 @@ a {
 
 #contactInfo {
     background-color: #8c240a;
-
 }
     
-
 #footer {  
     text-align: center;
     background-color: #710d10;
@@ -83,7 +106,7 @@ a {
    width: 200px;
 }
 
-
+/*----------------------------- Cart Page --------------------------*/
 .cart {
     position: relative;
     background-color: #fff;
@@ -106,6 +129,7 @@ a {
     padding: 3px;
     border-radius: 3px;
 }
+
 /* Shop items styles are here */
 
 .shop {
@@ -397,6 +421,10 @@ a {
     font-size: 20px;
     text-align: center;
     border-radius: 50%;
+  }
+
+  #socIcon a:hover {
+    color:#710d10;
   }
 
   
