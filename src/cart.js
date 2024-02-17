@@ -51,7 +51,7 @@ let calculation =()=>{
         ShoppingCart.innerHTML = ``;
         label.innerHTML = `
         <h2>Cart is Empty</h2>
-        <a href="index.html">
+        <a href="welcome.html">
          <button class="HomeBtn">Back to home</button>
         </a>
         `;
