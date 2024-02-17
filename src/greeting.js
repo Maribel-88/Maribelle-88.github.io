@@ -5,14 +5,12 @@ window.addEventListener("load", function(){
         },
         1000
     )
-})
-
-
-document.querySelector("#closePop").addEventListener("click", function() {
+  })
+  
+  document.querySelector("#closePop").addEventListener("click", function() {
     document.querySelector(".popup").style.display = "none";
-})
-
-
+  })
+  
 var today = new Date();
 var hourNow = today.getHours();
 var greeting;
