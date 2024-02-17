@@ -507,10 +507,24 @@ a {
     border-radius: 10px;
   }
 
-  #websiteButton:hover {
+  #websiteButton:hover,
+  #checkoutBtn:hover {
     border-radius: 15px;
     border: solid 1px transparent;
     background: linear-gradient(to bottom right, red, yellow);
     height: 38px;
 }
+
+#checkoutBtn {
+    display: block;
+    width:250px;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    background-color:#bb0000;
+    color:#fff;
+    text-decoration: none;
+    padding: 5px 0;
+    border-radius: 10px;
+  }
 
