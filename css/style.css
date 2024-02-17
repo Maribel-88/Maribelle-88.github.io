@@ -376,7 +376,8 @@ a {
   }
   
   .close:hover,
-  .close:focus {
+  .close:focus
+  {
     color: black;
     text-decoration: none;
     cursor: pointer;
@@ -443,4 +444,67 @@ a {
   }
 
   
+  /*-------------------------Pop-up Message ------------------*/
+  .popup {
+   
+    background-color: #f77f00;
+    background: linear-gradient(to bottom right, red, yellow);
+    width: 800px;
+    padding: 30px 40px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    z-index: 1; /* Sit on top */
+    left: 50%;
+    top: 50%;
+    border-radius: 8px;
+    font-family: "Poppins", sans-serif;
+    overflow: auto; /* Enable scroll if needed */
+    display: none;
+    border: 1px solid #888;
+      
+  } 
   
+  .popup p {
+    font-size: 25px;
+    text-align: justify;
+    margin: 20px 0;
+  }
+
+  #closePop
+  {
+    display: block;
+    margin: 0 0 20px auto;
+    background-color: transparent;
+    font-size: 30px;
+    color: #c5c5c5;
+    border: none;
+    outline:none;
+    cursor: pointer;
+  }
+
+  #closePop:hover {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  #websiteButton {
+    display: block;
+    width:150px;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    background-color:#bb0000;
+    color:#fff;
+    text-decoration: none;
+    padding: 5px 0;
+    border-radius: 10px;
+  }
+
+  #websiteButton:hover {
+    border-radius: 15px;
+    border: solid 1px transparent;
+    background: linear-gradient(to bottom right, red, yellow);
+    height: 38px;
+}
+
