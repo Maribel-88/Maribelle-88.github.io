@@ -76,10 +76,8 @@
       </nav>
     </header>
   
-   <div class = "container" id="checkoutDiv">
-         
-   </div>
-  <div class="container">
+   
+  <div class="container" id="paymentDiv">
     <div class="row container-fluid">
       <div class="py-4 text-center">
         <h2>Checkout</h2>
@@ -215,14 +213,13 @@
             </form>
             
       </div>
-      <div class="container bg-light col-md-4">
-        <h4>Total Amount</h4>
-        <div class="container text-start">
-            <div class="row row-cols-4">
-              <div class="col-12">Product name</div>
-              <div class="col-12">Column</div>
-              <div class="col-12">Column</div>
-              <div class="col-12">Column</div>
+      <div class="container bg-light col-md-4"  >
+        <h4 id="checkOutAmount">Total Amount</h4>
+        <div class="container text-start" >
+            <div class="row row-cols-4" id="checkoutDiv">
+              <div class="col-12" id="itemName">Product name</div>
+              <div class="col-12" id="itemPrice">Column</div>
+              <div class="col-12" id="totalPrice">Column</div>
             </div>
         </div>
       </div>
@@ -304,9 +301,10 @@
     </div>
 </footer>
   
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script> 
-    <script src="src/Data.js"></script>
-    <script src="src/main.js"></script>
-    
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script> 
+<script src="src/Data.js"></script>
+<script src="src/cart.js"></script> 
+<script src="src/checkout.js"></script>
+
  </body>   
 </html>

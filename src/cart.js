@@ -12,6 +12,7 @@ let calculation =()=>{
   };
   
   calculation();
+  
    let generateCartItems = () => {
     if(basket.length !==0){
        return (ShoppingCart.innerHTML = basket.map((x) => 
@@ -135,11 +136,13 @@ let TotalAmount = () => {
     // console.log(amount);
     label.innerHTML = `
     <h2>Grand Total : £ ${amount}</h2>
-    <button class="checkout"><a href="checkout.html">Checkout</a></button>
+    <button onclick="checkout()" class="checkout"><a href="checkout.html">Checkout</a></button>
     <button onclick="clearCart()"class="removeAll">Clear Cart</button>
     `;
+   
     } else return;
 };
 
 TotalAmount();
+
 
