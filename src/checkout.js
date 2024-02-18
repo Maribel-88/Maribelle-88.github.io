@@ -34,20 +34,24 @@ let generateItems = () => {
         let {img, name, price}= search;
         return`
         
-                   <div class="container text-start">
-                       <div class="row row-cols-4">
-                            <div class="row>
-                                <div class="row" id="itemName">Product name ${name}</div>
-                            </div>
-                            <div class="row>
-                            <div class="col-12" id="itemPrice">Price £ ${price} </div>
-                            </div>
-                            <div class="row>
-                            <div class="col-12" id="totalPrice">Column £ ${item * search.price}</div>
-                            </div>
-                                
-                       </div>
-                   </div>
+                  
+  <table class="table">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Product name</th>
+      <th scope="col">Price</th>
+      <th scope="col">Column £</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr >
+      <th scope="row" id="itemName">${name}</th>
+      <td >${price}</td>
+      <td>${item * search.price}</td>
+      
+    </tr>
+  </tbody>
+</table>
                    
     `
              
