@@ -15,7 +15,7 @@ let TotalAmount1 = () => {
     }).reduce((x,y)=>x+y, 0);
     // console.log(amount);
     checkAmount.innerHTML = `
-    <h5>Total Amount: £ ${amount}.00</h5>
+    <h4>Total Amount: £ ${amount}.00</h4>
     
     `;
    
@@ -36,28 +36,19 @@ let generateItems = () => {
         let {img, name, price}= search;
         return`
         
-                
-  <table class="table">
-  
-    <tr>
-      <th scope="col">Product name</th>
-      <th scope="col">Price</th>
-      <th scope="col">Quantity</th>
-      <th scope="col">Subtotal</th>
-    </tr>
- 
-  <tbody>
-    <tr >
-      <td >${name}</td>
-      <td >${price}</td>
-      <td >${item}</td>
-      <td>${item * search.price}</td>
+       
+    <table class="table">
       
-
-      
-    </tr>
-  </tbody>
-</table>
+      <tbody>
+        <tr >
+          <td >${name}</td>
+          <td >${price}</td>
+          <td >${item}</td>
+          <td>${item * search.price}</td>
+        </tr>
+        
+      </tbody>
+    </table>                   
                    
     `
        
@@ -79,8 +70,3 @@ let generateItems = () => {
     };
     
   checkoutItems(); 
-
-
-
-
-

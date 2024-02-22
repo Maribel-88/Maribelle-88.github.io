@@ -2,7 +2,7 @@
 
 let shop = document.getElementById('shop');
 
-console.log(shop);
+
 
 let basket = JSON.parse(localStorage.getItem("data")) || [];
 
