@@ -150,6 +150,7 @@ Customers can use this page in order to checkout and pay their order. They will 
 | Plus button | When clicked will increment the quantity of the selected item quantity | Clicked Minus button | Incremented the quantity of the selected item |
 | Delete X button | When clicked will remove  the selected item from the cart | Clicked X button | Removed the selected item from cart|
 | Clear button | When clicked will remove  all the selected item from the cart | Clicked clear button | Removed all the selected items from cart|
+| Checkout button | When clicked will open the checkout page from the cart | Clicked checkout button | Checkout page opened when clicked|
 | Back to Home Button | When clicked will take you to home page | Clicked Back to Home on the Cart page | Home page opened when clicked|
 
 
@@ -177,5 +178,5 @@ Credits
 ## Future Features
 Features Left to Implement
 
-    - The Checkout page is yet to be created.
+   
     - The submit form on Contact Us page has to be set up.
