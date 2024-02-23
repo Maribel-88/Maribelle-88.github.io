@@ -42,9 +42,9 @@ let generateItems = () => {
     
     <div class="checkoutItem" >
        <div class="checkoutItem-name">${name}</div>
-       <div class="checkoutItem-price">${price}</div>
+       <div class="checkoutItem-price">${price} .00</div>
        <div class="checkoutItem-qty">${item}</div>
-       <div class="checkoutItem-subtotal">${item * search.price}</div>
+       <div class="checkoutItem-subtotal">${item * search.price} .00</div>
     </div>             
     `
        
@@ -64,15 +64,17 @@ let generateItems = () => {
       
       function numberItem() {
         if(amount1 <= 1) {
-          amount1 = `<small>(${amount1} item)</small>`
+          amount1 = `<small>${amount1} item</small>`
+         
         }
         else {
-          amount1 = `<small>(${amount1} items)</small>`
+          amount1 = `<small>${amount1} items</small>`
+         
         }
       };
       numberItem();
       
-      checkoutlabel.innerHTML = `<h2>Checkout ${amount1}</h2>`
+      checkoutlabel.innerHTML = `<h2>Checkout(<font color="#219ebc">${amount1}</font>)</h2>`
       subCheckout.innerHTML = `<small>   Total item: ${amount1}</small>`
     };
     
