@@ -79,11 +79,11 @@
    
   <div class="container" id="paymentDiv">
     <div class="row container-fluid">
-      <div class="py-4 text-center">
-        <h2>Checkout</h2>
+      <div class="text-center">
+        <h2 id="checkoutLabel">Checkout</h2>
        </div>
       <hr class="my-2 mb-0"> <br>
-      <div class="container bg-light  col-md-8">   
+      <div class="container bg-light col-md-8" id="billingDiv">   
         <h4 class="mb-3">Billing Address</h4>
             <form novalidate>
                 <div class="row g-3">
@@ -213,17 +213,17 @@
             </form>
             
       </div>
-      <div class="container bg-light col-md-4"  >
-          <h4 id="checkOutAmount">Total Amount()</h4>
+      <div class="container bg-light col-md-4" id="totalAmountDiv" >
+          <h4 id="checkOutAmount" >Total Amount()</h4>
           <small id="subCheckout"></small>
-          
+          <hr>
           <div class="text-start" >
 
-            <div class=" row container-fluid">
-              <div class="col-6 ">Product(s)</div>
-              <div class="col-2 priceCol">Price</div>
-              <div class="col-2">Qty</div>
-              <div class="col-2">Subtotal</div>
+            <div class=" row container-fluid" id="checkProdHeader">
+              <div class="col-6 " id="productCol">Product(s)</div>
+              <div class="col-2 " id="priceCol">Price</div>
+              <div class="col-2" id="qtyCol">Qty</div>
+              <div class="col-2" id="subtotalCol">Subtotal</div>
             </div>
 
             <div class="container-fluid" id="checkoutDiv">

@@ -2,7 +2,8 @@ let checkOutDiv = document.getElementById("checkoutDiv");
 let checkAmount = document.getElementById("checkOutAmount");
 let subCheckOut = document.getElementById("subCheckout");  
 let shoppingCart = document.getElementById("shopping-cart");
-    console.log(shoppingCart);
+let checkoutlabel = document.getElementById("checkoutLabel") ;
+  
 let basket1 = JSON.parse(localStorage.getItem("data")) || [];
 
 let TotalAmount1 = () => {
@@ -55,13 +56,24 @@ let generateItems = () => {
    generateItems();
 
   function checkoutItems() {
-    let amount1 = basket.map((x) =>{
+    let amount1 = basket1.map((x) =>{
       let { item, id} = x;
       let search = shopItemsData.find((y)=> y.id === id) || [];
       return item ;
       }).reduce((x,y)=>x+y, 0);
-
-      subCheckOut.innerHTML = `Total Item(s): (${amount1})`
+      
+      function numberItem() {
+        if(amount1 <= 1) {
+          amount1 = `<small>(${amount1} item)</small>`
+        }
+        else {
+          amount1 = `<small>(${amount1} items)</small>`
+        }
+      };
+      numberItem();
+      
+      checkoutlabel.innerHTML = `<h2>Checkout ${amount1}</h2>`
+      subCheckout.innerHTML = `<small>   Total item: ${amount1}</small>`
     };
     
   checkoutItems(); 

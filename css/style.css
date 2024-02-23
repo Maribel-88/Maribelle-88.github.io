@@ -530,11 +530,34 @@ a {
     border-radius: 10px;
   }
 
+#paymentDiv {
+    margin-top: 30px;
+}
+
+#billingDiv,
+#totalAmountDiv {
+    padding-top: 30px;   
+}
+
+#checkoutDiv {
+    margin-left: 3px;
+}
+
   .checkoutItem-header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+  }
+ 
+  #productCol,
+  #priceCol,
+  #qtyCol,
+  #subtotalCol
+   {
+    text-align: center;
+
   }
 
+  
 
   .checkoutItem {  
     display:flex;
