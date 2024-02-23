@@ -546,7 +546,7 @@ a {
   .checkoutItem-header {
     
     justify-content: center;
-    padding-bottom: 30px;
+   
   }
  
   #productCol,
@@ -563,6 +563,7 @@ a {
   .checkoutItem {  
     display:flex;
     justify-content: space-evenly;
+    padding-top: 10px;
     
   
   }

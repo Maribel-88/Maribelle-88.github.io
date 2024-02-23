@@ -74,7 +74,7 @@ let generateItems = () => {
       };
       numberItem();
       
-      checkoutlabel.innerHTML = `<h2>Checkout(<font color="#219ebc">${amount1}</font>)</h2>`
+      checkoutlabel.innerHTML = `<h2>Checkout(<a href="cart2.html"><font color="#219ebc">${amount1}</font></a>)</h2>`
       subCheckout.innerHTML = `<small>   Total item: ${amount1}</small>`
     };
     
