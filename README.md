@@ -87,6 +87,13 @@ Customers can use this page in order to track the status of their order. They wi
  <div align="center"><img width="700" alt="orderStatusPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/f41156cf-d9c2-44b4-97ac-842a45b3c98f"></div>
 
  ---
+
+ ### [Checkout Page](https://maribel-88.github.io/Maribelle-88.github.io/checkout.html)
+Customers can use this page in order to checkout and pay their order. They will have to input the personal details and bank/card details.
+
+ <div align="center"><img width="700" alt="checkoutPage" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/5ce778d0-26b3-4cfe-a64d-15cfd385ec25"></div>
+
+ ---
  
 
  ## UX/UI Section
@@ -121,7 +128,7 @@ Customers can use this page in order to track the status of their order. They wi
 - Website performance
     - Has used the Lighthouse to check the website performance
       
-      <div align="center"><img width="700" alt="lighthoughtTest" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/e53e7969-f042-48bd-82a3-cf44dfa9b66b"></div>
+      <div align="center"><img width="953" alt="lighthouseTest" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/bcba7ef5-9d97-45b6-a9f3-22e0f920fd8e"></div>
      
 
   
