@@ -37,19 +37,14 @@ let generateItems = () => {
         return`
         
        
-    <table class="table">
-      
-      <tbody>
-        <tr >
-          <td >${name}</td>
-          <td >${price}</td>
-          <td >${item}</td>
-          <td>${item * search.price}</td>
-        </tr>
-        
-      </tbody>
-    </table>                   
-                   
+    
+    
+    <div class="checkoutItem" >
+       <div class="checkoutItem-name">${name}</div>
+       <div class="checkoutItem-price">${price}</div>
+       <div class="checkoutItem-qty">${item}</div>
+       <div class="checkoutItem-subtotal">${item * search.price}</div>
+    </div>             
     `
        
        })

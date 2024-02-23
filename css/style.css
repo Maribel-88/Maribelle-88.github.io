@@ -57,6 +57,8 @@ a {
     color: #fff;  
 }
 
+
+
 .btnNav:hover, #myBtn:hover {
     border-radius: 15px;
     border: solid 1px transparent;
@@ -528,6 +530,37 @@ a {
     border-radius: 10px;
   }
 
+  .checkoutItem-header {
+    display: flex;
+    justify-content: space-between;
+  }
 
+
+  .checkoutItem {  
+    display:flex;
+    justify-content: space-around;
+    padding: 10px 0;
+  
+  }
+
+  
+  
+  .checkoutItem-name {
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 0 10px 10px 0;
+    padding: 10px;
+  }
+
+  .checkoutItem-price {
+    font-size: 1.2rem;
+  }
+
+  .checkoutItem-qty {
+    font-size: 1.2rem;
+  }
+
+  .checkoutItem-subtotal {
+    font-size: 1.2rem;
+  }
 
 
