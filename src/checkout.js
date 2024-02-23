@@ -42,9 +42,9 @@ let generateItems = () => {
     
     <div class="checkoutItem" >
        <div class="checkoutItem-name">${name}</div>
-       <div class="checkoutItem-price">${price} .00</div>
+       <div class="checkoutItem-price">${price}.00</div>
        <div class="checkoutItem-qty">${item}</div>
-       <div class="checkoutItem-subtotal">${item * search.price} .00</div>
+       <div class="checkoutItem-subtotal">${item * search.price}.00</div>
     </div>             
     `
        
