@@ -121,7 +121,7 @@ Customers can use this page in order to track the status of their order. They wi
 - Website performance
     - Has used the Lighthouse to check the website performance
       
-      <div align="center"><img width="700" alt="lighthoughtTest" src="https://github.com/Maribel-88/Maribelle-88.github.io/assets/139706325/e53e7969-f042-48bd-82a3-cf44dfa9b66b"></div>
+      <div align="center"><img width="700" alt="lighthouseTest" src="https://github.com/alexHampton/The-Tech-Academy-C-Sharp-Coding-Projects/assets/139706325/2dd920b7-74bb-483c-9156-b6bae6447e6d"></div>
      
 
   
